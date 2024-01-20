@@ -2,6 +2,6 @@ import "./widgetsm.css"
 
 export const WidgSm = () => {
   return (
-    <div>WidgSm</div>
+    <div className="widgetsm">WidgSm</div>
   )
 }
