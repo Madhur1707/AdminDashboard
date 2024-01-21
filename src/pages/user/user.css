@@ -1,0 +1,142 @@
+.user {
+  flex: 4;
+  padding: 20px;
+}
+
+.userTitleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.userAddButton {
+  width: 80px;
+  border: none;
+  padding: 5px;
+  background-color: teal;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
+
+.userContainer {
+  display: flex;
+  margin-top: 20px;
+}
+
+.userShow {
+  flex: 1;
+  padding: 20px;
+  box-shadow: 0 7px 30px -10px rgba(150, 170, 180, 0.5);
+}
+
+.userUpdate {
+  flex: 2;
+  padding: 20px;
+  box-shadow: 0 7px 30px -10px rgba(150, 170, 180, 0.5);
+  margin-left: 20px;
+}
+
+.userShowTop {
+  display: flex;
+  align-items: center;
+}
+
+.useShowImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.userShowTopTitle {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.userShowUsername {
+  font-weight: 600;
+}
+
+.userShowUserTitle {
+  font-weight: 300;
+}
+
+.userShowBottom {
+  margin-top: 20px;
+}
+
+.userShowTitle {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(176, 176, 176);
+}
+
+.userShowInfo {
+  display: flex;
+  align-items: center;
+  margin: 20px 0px;
+  color: #444;
+}
+
+.userShowIcon {
+  font-size: 16px !important;
+}
+.userShowInfoTitle {
+  margin-left: 12px;
+}
+.userUpdateImg {
+  width: 150px;
+  height: 150px;
+  border-radius: 11px;
+  object-fit: cover;
+  margin-left: 20px;
+}
+.userUpdateTitle {
+  font-size: 24px;
+  font-weight: 600;
+}
+.userUpdateForm {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.userUpdateItem {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.userUpdateItem > label {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+.userUpdateInput {
+  border: none;
+  border-bottom: 1px solid gray;
+  width: 250px;
+}
+.userUpdateRight {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.userUpdateUpload {
+  display: flex;
+  align-items: center;
+}
+
+.userUpdateIcon {
+  cursor: pointer;
+  margin-top: 10px;
+}
+.userUpdateButton {
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+  background-color: darkblue;
+  color: white;
+  font-weight: 600;
+}
