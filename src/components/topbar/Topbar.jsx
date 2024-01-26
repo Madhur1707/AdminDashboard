@@ -7,7 +7,7 @@ export const Topbar = () => {
     <div className="topbar">
       <div className="topbarWrapper">
         <div className="topLeft">
-          <span className="logo">MyAdmin</span>
+          <span className="logo">Admin Panel</span>
         </div>
         <div className="topRight">
           <div className="topbarIconContainer">

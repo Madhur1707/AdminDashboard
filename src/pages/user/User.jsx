@@ -22,7 +22,7 @@ export const User = () => {
         <div className="userShow">
           <div className="userShowTop">
             <img
-              src="https://images.pexels.com/photos/103123/pexels-photo-103123.jpeg?auto=compress&cs=tinysrgb&w=400"
+              src=  "https://media.licdn.com/dms/image/D4D03AQGwpDaKfXtv2g/profile-displayphoto-shrink_200_200/0/1700375051308?e=1711584000&v=beta&t=_nXKjZAOxx6RqQjJu9vQ7aoWwz-_nOhwCRxiT883xX0"
               alt=""
               className="useShowImg"
             />
@@ -106,7 +106,7 @@ export const User = () => {
             <div className="userUpdateRight">
               <div className="userUpdateUpload">
                 <img
-                  src="https://images.pexels.com/photos/103123/pexels-photo-103123.jpeg?auto=compress&cs=tinysrgb&w=400"
+                  src=  "https://media.licdn.com/dms/image/D4D03AQGwpDaKfXtv2g/profile-displayphoto-shrink_200_200/0/1700375051308?e=1711584000&v=beta&t=_nXKjZAOxx6RqQjJu9vQ7aoWwz-_nOhwCRxiT883xX0"
                   alt=""
                   className="userUpdateImg"
                 />
