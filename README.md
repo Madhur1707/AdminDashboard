@@ -9,6 +9,17 @@ The Admin Panel Dashboard is a dynamic and interactive dashboard application bui
   
 * Seamless Navigation: Uses React Router DOM for smooth and efficient navigation between different pages of the dashboard.
 
-  *  Comprehensive User Analytics: Provides detailed analytics and statistics through various charts.
+* Comprehensive User Analytics: Provides detailed analytics and statistics through various charts.
 
 * User and Product Management: Allows easy management of users and products with functionalities to create, edit, update, and delete records.
+
+
+## Technologies Used
+
+* React: A JavaScript library for building user interfaces.
+* Material-UI: A popular React UI framework that implements Google's Material Design.
+* Recharts: A composable charting library built on React components.
+* React Router DOM: A collection of navigational components that compose declaratively with your application.
+  
+
+
